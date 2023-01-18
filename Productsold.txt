@@ -1,0 +1,20 @@
+ProductName                No.of products delivered
+20in Monitor	             10
+27in 4K Gaming Monitor       12
+27in FHD Monitor	     10
+34in Ultrawide Monitor	     12
+AA Batteries (4-pack)	     44
+AAA Batteries (4-pack)	     40
+Apple Airpods Headphones     26
+Bose SoundSport Headphones   24
+Flatscreen TV	              9
+Google Phone	             16
+iPhone	                      8
+LG Dryer	              2
+LG Washing Machine	      2
+Lightning Charging Cable     38
+Macbook Pro Laptop	      7
+ThinkPad Laptop	              7
+USB-C Charging Cable	     48
+Vareebadd Phone	              2
+Wired Headphones	     38
