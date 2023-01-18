@@ -4,7 +4,7 @@ E-commerce (electronic commerce) is the buying and selling of goods and services
 
 # DESCRIPTION
 This makes the shop owner to interact with the data
-1. Stock Details -- Inserting the product,Deleting the product,Searching the product,Sorting the product
+1. Stock Details -- Inserting the product,Deleting the product,Searching the product andSorting the product
 2. Product Purchased Stock Portal -- Print Stock,Sort product_sold Stock and Search product
 
 # LIBRARIES USED
